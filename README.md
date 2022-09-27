@@ -1,4 +1,4 @@
-# test1
+# GOFR Translator
 
 ## Project setup
 ```
