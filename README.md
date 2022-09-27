@@ -5,8 +5,8 @@ A GOFR App can be cloned as below
 ```
 git clone --single-branch --branch <app-name> https://github.com/intrahealth/gofr-core-apps.git <app-name>
 ```
-Replace app-name with the name of the app you are cloning. ie gofr-dictionary app can be cloned as below
+Replace app-name with the name of the app you are cloning. ie gofr-translator app can be cloned as below
 ```
-git clone --single-branch --branch <app-name> https://github.com/intrahealth/gofr-core-apps.git <app-name>
+git clone --single-branch --branch gofr-translator https://github.com/intrahealth/gofr-core-apps.git gofr-translator
 ```
 Do the same for cloning the startup template
