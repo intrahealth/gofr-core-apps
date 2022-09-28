@@ -17,6 +17,6 @@ module.exports = {
       }
     }
   },
-  publicPath: '/gofrapp/dictionary/',
+  publicPath: '/gofrapp/app-name/',
   transpileDependencies: ['vuetify']
 }
