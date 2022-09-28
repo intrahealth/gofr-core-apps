@@ -3,10 +3,6 @@ module.exports = {
 
   devServer: {
     proxy: {
-      '^/dictionary': {
-        target: 'http://localhost:4000/',
-        logLevel: 'debug'
-      },
       '^/auth': {
         target: 'http://localhost:4000/',
         logLevel: 'debug'
