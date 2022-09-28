@@ -2,7 +2,7 @@
 
 ## Cloning
 ```
-git clone --single-branch --branch gofr-translator https://github.com/intrahealth/gofr-core-apps.git
+git clone --single-branch --branch gofr-translator https://github.com/intrahealth/gofr-core-apps.git gofr-translator
 ```
 ## Project setup
 ```
